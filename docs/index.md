@@ -9,18 +9,16 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Used plugins
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
+* [mkdocs-cryptcontent-plugin](https://github.com/unverbuggt/mkdocs-encryptcontent-plugin)
+* [mkdocs-static-i18n](https://ultrabug.github.io/mkdocs-static-i18n/)
 
 ## Contribution Guide
 ### Local Build
-https://www.mkdocs.org/
 
-clone git repository: git clone git@github.com:LMGroup-KyotoU/lmgroup-kyotou.github.io.git
-edit file user docs folder
-push the changed file to github
-deploy site: mkdocs gh-deploy
+clone git repository: git clone git@github.com:LMGroup-KyotoU/lmgroup-kyotou.github.io.git <br>
+edit file user docs folder <br>
+push the changed file to github <br>
+deploy site: mkdocs gh-deploy <br>

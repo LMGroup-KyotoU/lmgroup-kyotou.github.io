@@ -3,9 +3,47 @@ site_description: Documentation for the Learning Machine Group
 site_author: Learning Machine Group
 site_url: https://lmgroup-kyotou.github.io
 
-Home: index.md 
-About: about.md
+theme:
+  name: material
+  logo: img/logo.png
+  favicon: img/favicon.ico
+  palette:
+    primary: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - search.suggest
+
 plugins:
     - search: {}
+    - tags: {}
+    - i18n:
+        docs_structure: folder
+        languages:
+          - locale: en
+            default: true
+            name: English
+            build: true
+          - locale: zh
+            name: 简体中文
+            build: true
+          - locale: ja
+            name: 日本語
+            build: true
     - encryptcontent:
         global_password: 'lmg'
+        # title_prefix: '🔒'
+        title_prefix: ''
+extra: 
+  generator: false
+nav:
+  - 'Home': index.md
+  - 'Test':
+    - 'Test1': test1.md
+    - 'Test2': test2.md
+  # - 'language':
+  #   - 'zh': 'zh/index.md'
+  #   - 'en': 'en/index.md'
+  #   - 'jp': 'jp/index.md'
