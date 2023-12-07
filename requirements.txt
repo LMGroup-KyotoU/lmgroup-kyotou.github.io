@@ -1,0 +1,11 @@
+site_name: Learning Machine Group Documentation
+site_description: Documentation for the Learning Machine Group
+site_author: Learning Machine Group
+site_url: https://lmgroup-kyotou.github.io
+
+Home: index.md 
+About: about.md
+plugins:
+    - search: {}
+    - encryptcontent:
+        global_password: 'lmg'
