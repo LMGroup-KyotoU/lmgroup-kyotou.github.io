@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/about/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/about/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/about/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/about/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/mkdoc_test/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/mkdoc_test/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/mkdoc_test/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/mkdoc_test/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/test1/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/test1/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/test1/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/test1/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/test2/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/test2/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/test2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/test2/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/zh/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/zh/about/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/about/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/about/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/zh/mkdoc_test/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/mkdoc_test/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/mkdoc_test/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/mkdoc_test/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/zh/test1/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/test1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/test1/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/test1/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/zh/test2/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/test2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/test2/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/test2/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/zh/docker%20%E9%85%8D%E7%BD%AE/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/docker%20%E9%85%8D%E7%BD%AE/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/zh/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/ja/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/ja/about/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/about/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/about/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/ja/mkdoc_test/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/mkdoc_test/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/mkdoc_test/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/mkdoc_test/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/ja/test1/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/test1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/test1/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/test1/"/>
+    </url>
+    <url>
+        <loc>https://lmgroup-kyotou.github.io/ja/test2/</loc>
+        <lastmod>2023-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://lmgroup-kyotou.github.io/ja/test2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://lmgroup-kyotou.github.io/test2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://lmgroup-kyotou.github.io/zh/test2/"/>
+    </url>
+</urlset>
