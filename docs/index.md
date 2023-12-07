@@ -15,3 +15,12 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Contribution Guide
+### Local Build
+https://www.mkdocs.org/
+
+clone git repository: git clone git@github.com:LMGroup-KyotoU/lmgroup-kyotou.github.io.git
+edit file user docs folder
+push the changed file to github
+deploy site: mkdocs gh-deploy

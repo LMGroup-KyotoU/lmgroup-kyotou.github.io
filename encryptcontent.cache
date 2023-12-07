@@ -1,0 +1,5 @@
+kdf_iterations: 10000
+obfuscate: {}
+password:
+  lmg: f57648ac98aaf54589d8ac381228e40e0fbd60bedfd8ec0f770f94bfc5f2ec08;e0f2ba60cbcc0a3e37c5e3f82a1316dd
+userpass: {}
